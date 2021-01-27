@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of weird mask](https://www.google.com/shopping/product/6553417561571033424?q=weird+mask&client=firefox-b-1-d&sxsrf=ALeKk003AqUtnUjMESLM4uYWRYcld-yrpg:1611774133003&biw=2144&bih=1060&prds=eto:4162298243665513968_0&sa=X&ved=0ahUKEwjWyKLG5rzuAhVSbc0KHc6IDlYQvxMI6AYoAA)
