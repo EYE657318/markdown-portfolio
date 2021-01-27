@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Wow**
+*this works exactly like every other program I've seen use bold and italics*
+####except google docs lmao
